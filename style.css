@@ -1,0 +1,75 @@
+h1{
+  color: #ff8000;
+  position: relative;
+  left: 25%;
+  font-family: "Metronic,Verdana,Source Sans Pro,sans-serif";
+  font-size: 80px;
+
+  text-shadow: 0 0 12px #ff8000;
+}
+
+h2{
+  color: #ffff00;
+  position: relative;
+  left: 15%;
+  font-family: "Metronic,Verdana,Source Sans Pro,sans-serif";
+  font-size: 40px;
+
+  text-shadow: 0 0 30px #ffff00;
+}
+
+
+h3{
+  color: #6a51fd;
+  font-family: "Metronic,Verdana,Source Sans Pro,sans-serif";
+  font-size: 25px;
+  position: relative;
+  left: 15%;
+  text-shadow: 0 0 6px #6a51fd;
+}
+
+
+
+span{
+  color: #aaf2ff;
+  font-weight: bold;
+  font-family: "Metronic,Verdana,Source Sans Pro,sans-serif";
+  font-size: 25px;
+  text-shadow: 0 0 6px #99f;
+
+  position: relative;
+  left: 15%;
+}
+
+.wrap{
+  background:url(https://static.heroesofthestorm.com/images/legacy/ultrawide-desktop-bg-182-5352a730c5.jpg) 50% 26px;
+}
+
+.background{
+  background-image: url("https://static.heroesofthestorm.com/images/hero-select/background-2400-213c34727f.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  position: static;
+  background-color: #000C1C;
+}
+
+body{
+  background:url(https://static.heroesofthestorm.com/images/legacy/ultrawide-desktop-bg-182-5352a730c5.jpg) 50% 26px;
+  overflow: hidden auto;
+}
+
+
+.chromie{
+  color: #ffffff;
+  font-weight:bold;
+  font-size: 30px;
+  text-shadow: 0 0 16px #009cff;
+}
+
+
+.number{
+  color: #ffffff;
+  /* font-weight:bold; */
+  font-size: 30px;
+  text-shadow: 0 0 8px #ffffff;
+}
