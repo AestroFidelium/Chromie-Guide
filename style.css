@@ -51,6 +51,9 @@ span{
   background-repeat: no-repeat;
   position: static;
   background-color: #000C1C;
+  /* width: 1800; */
+  width: 2400;
+  /* height: 2600; */
 }
 
 body{
